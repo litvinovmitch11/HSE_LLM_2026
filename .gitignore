@@ -208,3 +208,5 @@ __marimo__/
 
 RussianFinancialNews
 catboost_info
+config.py
+prepared_dataset.parquet
