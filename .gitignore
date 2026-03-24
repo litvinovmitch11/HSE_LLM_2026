@@ -210,3 +210,7 @@ RussianFinancialNews
 catboost_info
 config.py
 prepared_dataset.parquet
+my_finance_llm
+llm_finetuned
+logreg_baseline.pkl
+catboost_baseline.cbm
